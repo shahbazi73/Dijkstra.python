@@ -5,4 +5,6 @@ Dijkstra's algorithm (/ˈdaɪkstrəz/ DYKE-strəz) is an algorithm for finding t
 
 
 
-![image](https://github.com/shahbazi73/Dijkstra.python/assets/92217106/a15e80e6-7011-4e67-8295-307ff4314cf8)
+
+
+![Dijkstra_Animation](https://github.com/shahbazi73/Dijkstra.python/assets/92217106/e76d0321-a99c-450b-981f-fbb805315047)
